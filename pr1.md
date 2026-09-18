@@ -3,7 +3,7 @@
 ## Задание 1
 ``` grep -v "^\s*#" /etc/passwd | cut -d: -f1 | sort ```
 
-<img width="1470" height="956" alt="Снимок экрана — 2026-09-18 в 11 51 39" src="https://github.com/user-attachments/assets/461e669f-505e-41ef-b10b-3ff3827a5000" />
+<img width="929" height="483" alt="Снимок экрана — 2026-09-18 в 21 43 10" src="https://github.com/user-attachments/assets/b69aebf4-311c-44e6-8def-981ff8c5c66d" />
 
 
 ## Задание 2
