@@ -29,5 +29,6 @@
 
 <img width="594" height="358" alt="Снимок экрана — 2026-09-22 в 14 57 44" src="https://github.com/user-attachments/assets/617b9346-f5d5-417f-a48c-b18c56b787b7" />
 
+
 <img width="639" height="118" alt="Снимок экрана — 2026-09-22 в 15 02 16" src="https://github.com/user-attachments/assets/bb37007a-bf37-4a31-a54f-8bf598882268" />
 
