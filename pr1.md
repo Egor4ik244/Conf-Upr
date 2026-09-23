@@ -7,8 +7,7 @@
 
 
 ## Задание 2
-``` grep -v "^\s*#" /etc/protocols | awk '{<img width="1375" height="319" alt="Снимок экрана — 2026-09-22 в 15 30 15" src="https://github.com/user-attachments/assets/7a27c63d-bf3e-493b-a76c-e73e639c2831" />
-print $2, $1}' | sort -rn | head -n 5 ```
+``` grep -v "^\s*#" /etc/protocols | awk '{print $2, $1}' | sort -rn | head -n 5 ```
 
 <img width="860" height="87" alt="Снимок экрана — 2026-09-18 в 11 56 13" src="https://github.com/user-attachments/assets/b0a78def-6075-4496-a360-dbe7d47dddcf" />
 
