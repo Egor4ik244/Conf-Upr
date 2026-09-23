@@ -7,7 +7,8 @@
 
 
 ## Задание 2
-``` grep -v "^\s*#" /etc/protocols | awk '{print $2, $1}' | sort -rn | head -n 5 ```
+``` grep -v "^\s*#" /etc/protocols | awk '{<img width="1375" height="319" alt="Снимок экрана — 2026-09-22 в 15 30 15" src="https://github.com/user-attachments/assets/7a27c63d-bf3e-493b-a76c-e73e639c2831" />
+print $2, $1}' | sort -rn | head -n 5 ```
 
 <img width="860" height="87" alt="Снимок экрана — 2026-09-18 в 11 56 13" src="https://github.com/user-attachments/assets/b0a78def-6075-4496-a360-dbe7d47dddcf" />
 
@@ -31,4 +32,11 @@
 
 
 <img width="639" height="118" alt="Снимок экрана — 2026-09-22 в 15 02 16" src="https://github.com/user-attachments/assets/bb37007a-bf37-4a31-a54f-8bf598882268" />
+
+
+## Задание 6
+
+<img width="476" height="72" alt="Снимок экрана — 2026-09-22 в 15 29 23" src="https://github.com/user-attachments/assets/d86d0829-edc1-49b0-81b6-6081657b8612" />
+
+<img width="1375" height="319" alt="Снимок экрана — 2026-09-22 в 15 30 15" src="https://github.com/user-attachments/assets/7bf8667b-65f1-4fb0-b3cb-a104fe977b1a" />
 
