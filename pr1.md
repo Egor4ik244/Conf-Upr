@@ -39,3 +39,12 @@
 
 <img width="1375" height="319" alt="Снимок экрана — 2026-09-22 в 15 30 15" src="https://github.com/user-attachments/assets/7bf8667b-65f1-4fb0-b3cb-a104fe977b1a" />
 
+
+## Задание 7
+
+<img width="748" height="630" alt="Снимок экрана — 2026-09-24 в 11 57 27" src="https://github.com/user-attachments/assets/553ed9da-5a1e-4a5b-b521-feade502cc61" />
+
+<img width="473" height="50" alt="Снимок экрана — 2026-09-24 в 11 57 54" src="https://github.com/user-attachments/assets/ddbeb854-2977-4fdf-a24e-8b46acba7ee7" />
+
+
+
