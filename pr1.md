@@ -47,4 +47,9 @@
 <img width="473" height="50" alt="Снимок экрана — 2026-09-24 в 11 57 54" src="https://github.com/user-attachments/assets/ddbeb854-2977-4fdf-a24e-8b46acba7ee7" />
 
 
+## Задание 8
+
+<img width="446" height="125" alt="Снимок экрана — 2026-09-24 в 12 30 51" src="https://github.com/user-attachments/assets/0717a03d-959d-4778-877b-89c28ca53ea1" />
+
+<img width="661" height="20" alt="Снимок экрана — 2026-09-24 в 12 30 33" src="https://github.com/user-attachments/assets/aee97a78-8263-4ebc-824b-a4b5d4364fad" />
 
