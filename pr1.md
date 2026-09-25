@@ -49,7 +49,23 @@
 
 ## Задание 8
 
+
+<img width="925" height="163" alt="Снимок экрана — 2026-09-24 в 12 13 39" src="https://github.com/user-attachments/assets/8460ffa9-6cf0-408e-b7ed-a4eaec27093e" />
+
+<img width="448" height="50" alt="Снимок экрана — 2026-09-24 в 12 22 58" src="https://github.com/user-attachments/assets/8e15f24d-206e-408e-bad1-6da4663668c4" />
+
+
+## Задание 9
+
 <img width="446" height="125" alt="Снимок экрана — 2026-09-24 в 12 30 51" src="https://github.com/user-attachments/assets/0717a03d-959d-4778-877b-89c28ca53ea1" />
 
 <img width="661" height="20" alt="Снимок экрана — 2026-09-24 в 12 30 33" src="https://github.com/user-attachments/assets/aee97a78-8263-4ebc-824b-a4b5d4364fad" />
 
+
+## Задание 10
+
+
+<img width="680" height="103" alt="Снимок экрана — 2026-09-24 в 14 41 01" src="https://github.com/user-attachments/assets/b8fbdc57-7fd7-4bd6-8281-ca7003939906" />
+
+
+<img width="462" height="69" alt="Снимок экрана — 2026-09-24 в 14 40 44" src="https://github.com/user-attachments/assets/9d9aea66-6cd0-44a4-95fa-8ffa57d83658" />
